@@ -1,0 +1,9 @@
+[
+  { "id": "all",       "label": "All styles",  "count": 15 },
+  { "id": "minimal",   "label": "Minimal",     "count": 4  },
+  { "id": "bold",      "label": "Bold",        "count": 2  },
+  { "id": "dark",      "label": "Dark",        "count": 3  },
+  { "id": "retro",     "label": "Retro",       "count": 2  },
+  { "id": "playful",   "label": "Playful",     "count": 3  },
+  { "id": "corporate", "label": "Corporate",   "count": 1  }
+]
